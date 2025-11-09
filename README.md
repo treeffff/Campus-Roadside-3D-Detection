@@ -1,4 +1,4 @@
-# 校园路侧3D目标检测
+# 校园路侧3D目标检测-科大讯飞开发者比赛
 
 ## 解决方案
 
@@ -97,4 +97,5 @@ chmod +x test.sh
 
 ### 注
 本仓库基于 [ADLab-AutoDrive/BEVHeight](https://github.com/ADLab-AutoDrive/BEVHeight) Fork，用于学习/研究/个人项目。
+
 
