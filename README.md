@@ -95,3 +95,6 @@ chmod +x test.sh
 # 代码会在目标目录prediction_result/result下生成结果
 ```
 
+### 注
+本仓库基于 [ADLab-AutoDrive/BEVHeight](https://github.com/ADLab-AutoDrive/BEVHeight) Fork，用于学习/研究/个人项目。
+
